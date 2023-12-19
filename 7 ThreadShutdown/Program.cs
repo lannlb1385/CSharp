@@ -16,7 +16,7 @@ public class Example
 
         //start running your thread
         //dont forget to pass your parameter for the Speak method (ParameterizedThreadStart delegate) in start method
-        t.Start("Hello World!");
+        t.Start("Hello World! Nha Con dong ");
 
         //wait for 5 secs while Speak method print Hello World! for multiple times
         Thread.Sleep(5000);

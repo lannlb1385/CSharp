@@ -18,7 +18,7 @@ public class Example
         //wait until Thread "t" is done with its execution.
         t.Join();
 
-        Console.WriteLine("Press Dung mong cho nuwax Enter to terminate!");
+        Console.WriteLine("Presssfdsf Dung mong nhu con gau nuwax Enter to terminate!");
         Console.ReadLine();
     }
 
@@ -27,6 +27,6 @@ public class Example
         //your code here that you want to run parallel
         //most of the time it will be a CPU bound operation
 
-        Console.WriteLine("Hello World!");
+        Console.WriteLine("Hello anh Lan Yeu dau World!");
     }
 }

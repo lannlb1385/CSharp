@@ -27,6 +27,6 @@ public class Example
         //your code here that you want to run parallel
         //most of the time it will be a CPU bound operation
 
-        Console.WriteLine("Hello anh Lan Yeu dau World!");
+        Console.WriteLine("Hello Wsfjsfksajlfjas;lfdkorld!");
     }
 }

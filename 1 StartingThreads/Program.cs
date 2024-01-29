@@ -9,6 +9,9 @@ public class Example
         //initialize a thread class object 
         //And pass your custom method name to the constructor parameter
         Thread t = new Thread(SomeMethod);
+
+          
+                haha
         lan them vao de test GIt
         //start running your thread
         t.Start();

@@ -9,7 +9,11 @@ public class Example
         //initialize a thread class object 
         //And pass your custom method name to the constructor parameter
         Thread t = new Thread(SomeMethod);
-
+        Dflskjflsjf
+            slkfjslfkjs
+            lsdkfjaslfkdj
+            lskfdj;slfjd
+                haha
         //start running your thread
         t.Start();
 
